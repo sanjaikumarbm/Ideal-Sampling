@@ -1,7 +1,7 @@
 ## EXP:01 Ideal, Natural, & Flat-top -Sampling
 
-## NAME: RAJANAYAGAM K
-## REG NO: 212224060202
+## NAME: SANJAI KUMAR B M
+## REG NO: 212224060232
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
